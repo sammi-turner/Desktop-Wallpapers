@@ -1,2 +1,3 @@
-# Wallpapers
-Scenic JPGs for the desktop.
+# Private Wallpapers
+
+Private repo.
