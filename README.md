@@ -1,3 +1,3 @@
-# Private Wallpapers
+# Desktop Wallpapers
 
-Private repo.
+A large collection of desktop wallpapers.
